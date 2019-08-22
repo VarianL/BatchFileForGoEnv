@@ -41,15 +41,15 @@ cd %GOPATH%
 go install golang.org/x/tools/cmd/goimports
 
 cd src
-git clone https://github.com/mdempsky/gocode.git github.com/mdempsky
-git clone https://github.com/uudashr/gopkgs.git github.com/uudashr
-git clone https://github.com/ramya-rao-a/go-outline.git github.com/ramya-rao-a
-git clone https://github.com/acroca/go-symbols.git github.com/acroca/
-git clone https://github.com/go-delve/delve.git github.com/go-delve
-git clone https://github.com/stamblerre/gocode.git github.com/stamblerre
-git clone https://github.com/rogpeppe/godef.git github.com/rogpeppe
-git clone https://github.com/ianthehat/godef.git github.com/ianthehat
-git clone https://github.com/sqs/goreturns.git github.com/sqs
+git clone https://github.com/mdempsky/gocode.git github.com/mdempsky/gocode
+git clone https://github.com/uudashr/gopkgs.git github.com/uudashr/gopkgs
+git clone https://github.com/ramya-rao-a/go-outline.git github.com/ramya-rao-a/go-outline
+git clone https://github.com/acroca/go-symbols.git github.com/acroca/go-symbols
+git clone https://github.com/go-delve/delve.git github.com/go-delve/delve
+git clone https://github.com/stamblerre/gocode.git github.com/stamblerre/gocode
+git clone https://github.com/rogpeppe/godef.git github.com/rogpeppe/godef
+git clone https://github.com/ianthehat/godef.git github.com/ianthehat/godef
+git clone https://github.com/sqs/goreturns.git github.com/sqs/goreturns
 
 cd ..
 
